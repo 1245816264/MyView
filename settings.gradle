@@ -1,1 +1,1 @@
-include ':app', ':MyViewGroup', ':FlowLayout'
+include ':app', ':MyViewGroup', ':FlowLayout', ':SlidingMenu'
